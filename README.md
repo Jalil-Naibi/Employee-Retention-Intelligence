@@ -10,6 +10,17 @@ Try the interactive employee attrition predictor:
 
 [https://your-streamlit-link.streamlit.app](https://employee-retention-intelligence.streamlit.app/)
 
+## Application Preview
+
+### Main Interface
+![Main Interface](images/app_interface.png)
+
+### Attrition Risk Prediction 1
+![Prediction Result](images/prediction_1.png)
+
+### Attrition Risk Prediction 2
+![Prediction Result](images/prediction_2.png)
+
 ###  Key Findings
 * **Overwork is the Killer:** Employees working 250+ hours/month are 3x more likely to leave.
 * **The "Satisfaction" Trap:** Employees with *high* evaluation scores but *low* satisfaction are the highest flight risk.
